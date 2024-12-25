@@ -38,7 +38,7 @@ I'm a passionate Machine Learning / AI Enthusiast 🚀, currently pursuing my Ba
 
 ## 📊 Top Languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pujan-Parajuli&layout=compact&theme=dark)](https://github.com/Pujan-Parajuli)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pujan-Parajuli&layout=compact&theme=dark)](https://github.com/Beastmaster69420)
 
 ---
 
