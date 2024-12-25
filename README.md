@@ -32,7 +32,7 @@ I'm a passionate Machine Learning / AI Enthusiast 🚀, currently pursuing my Ba
 ---
 
 ## 🔥 GitHub Stats & Insights  
-![Pujan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pujan-Parajuli&show_icons=true&count_private=true&hide=prs&theme=dark)
+![Niroj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pujan-Parajuli&show_icons=true&count_private=true&hide=prs&theme=dark)
 
 ---
 
