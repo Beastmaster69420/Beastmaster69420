@@ -2,24 +2,19 @@
 
 ![Header Image](https://media.giphy.com/media/mtzCPgXqC9GEg/giphy.gif?cid=790b7611d4fjgdue4cd6ph8dbrjyjrctbr3htxguv9j71dww&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-I'm a passionate Machine Learning / AI Enthusiast 🚀, currently pursuing my Bachelor's in Engineering from Sagarmatha Engineering College. I am particularly interested in developing and exploring AI/ML models to solve real-world problems.
+I'm a passionate MERN STACK Web Developer currently exploring Web3 and Blockchain alongside Mobile App Development 🚀. Currently pursuing my Bachelor's in Engineering from Sagarmatha Engineering College. I am particularly interested in developing and exploring the tech world to solve real-world problems.
 
 ## 🌱 What I'm Learning / Exploring:
-- Deep Learning
-- Natural Language Processing
-- Reinforcement Learning
-- Data Science & Analytics
-- Machine Vision
-- Neural Networks
+- Solidity
+- React Native
 
 ## 🚀 Tech Stack:
-- Python
-- React
+- MERN
 - React Native
 - Typescript
 - Javascript
-- Pandas / NumPy
-- OpenCV
+- Python
+- Solidity (Web3 Tech Stack)
 
 ## 📚 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/niroj-maharjan-1b534227b/)
@@ -27,24 +22,24 @@ I'm a passionate Machine Learning / AI Enthusiast 🚀, currently pursuing my Ba
 - [Facebook](https://www.facebook.com/niroj.maharjan.7792)
 
 ## 💬 Let's Connect:
-- I'm always open to discussing ML/AI topics, collaborations, or just sharing interesting knowledge. Feel free to reach out!
+- I'm always open to discussing Website and Blockchain technologies, collaborations, or just sharing interesting knowledge. Feel free to reach out!
 
 ---
 
 ## 🔥 GitHub Stats & Insights  
-![Niroj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pujan-Parajuli&show_icons=true&count_private=true&hide=prs&theme=dark)
+![Niroj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Beastmaster69420&show_icons=true&count_private=true&hide=prs&theme=dark)
 
 ---
 
 ## 📊 Top Languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pujan-Parajuli&layout=compact&theme=dark)](https://github.com/Beastmaster69420)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beastmaster69420&layout=compact&theme=dark)](https://github.com/Beastmaster69420)
 
 ---
 
 ## 🎯 My Latest Projects:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Pujan-Parajuli&repo=my-project)](https://github.com/Pujan-Parajuli/Tic-Tac-Toe)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Beastmaster69420&repo=my-project)](https://github.com/Beastmaster69420/Binary-Harvest)
 
 Feel free to explore my repositories, and don't forget to ⭐️ your favorite ones!
 
