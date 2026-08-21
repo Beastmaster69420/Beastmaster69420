@@ -16,8 +16,8 @@ Building full-stack web applications, Web3 smart contracts, embedded robotics sy
 
 <img src="https://img.shields.io/badge/BEI-4th_Year-3B82F6?style=for-the-badge&labelColor=0D1117&logo=education&logoColor=white" />
 <img src="https://img.shields.io/badge/Kathmandu-Nepal-3B82F6?style=for-the-badge&labelColor=0D1117&logo=googlemaps&logoColor=white" />
-<img src="https://img.shields.io/github/followers/nirojmaharjan?style=for-the-badge&color=3B82F6&labelColor=0D1117&logo=github&label=FOLLOWERS" />
-<img src="https://komarev.com/ghpvc/?username=nirojmaharjan&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/Beastmaster69420?style=for-the-badge&color=3B82F6&labelColor=0D1117&logo=github&label=FOLLOWERS" />
+<img src="https://komarev.com/ghpvc/?username=Beastmaster69420&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS" />
 
 </div>
 
