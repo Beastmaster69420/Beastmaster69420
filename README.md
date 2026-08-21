@@ -67,19 +67,19 @@ Full-Stack Web &nbsp;·&nbsp; Smart Contracts (Solidity) &nbsp;·&nbsp; Embedded
 
 ## Featured Technical Projects
 
-### 🤖 [3-DoF Robotic Arm — Color-Sorting System](https://github.com/nirojmaharjan)
+### 🤖 [3-DoF Robotic Arm — Color-Sorting System](https://github.com/Beastmaster69420/3-DOF-Robotic-Arm)
 
 Built a 3-Degree-of-Freedom (3-DoF) robotic arm as a college minor project. Features automated object recognition and real-time color sorting, integrating sensor data with motor actuator control and system-level algorithms.
 
-### 🌐 [Startup Web Platform — Thabho Technologies](https://github.com/nirojmaharjan)
+### 🌐 [Startup Web Platform ]
 
-Designed and deployed a responsive web platform for Thabho Technologies using a decoupled **Next.js + Strapi CMS** architecture. Delivered fast load times, dynamic content API integration, and headless CMS capabilities.
+Designed and deployed a responsive web platform using a decoupled **Next.js + Strapi CMS** architecture. Delivered fast load times, dynamic content API integration, and headless CMS capabilities.
 
-### ⛓️ [Solidity Smart Contracts & Web3 DApps](https://github.com/nirojmaharjan)
+### ⛓️ [Solidity Smart Contracts & Web3 DApps]
 
 Developed decentralized smart contracts in **Solidity**, implementing core Web3 token standards, automated agreement execution, and blockchain state management.
 
-### ⚡ [Full-Stack Node.js & Express API Suite](https://github.com/nirojmaharjan)
+### ⚡ [Full-Stack Node.js & Express API Suite](https://github.com/Beastmaster69420/Natours)
 
 Engineered robust backend API architecture using **Node.js, Express.js, and MongoDB**. Features JWT authentication, role-based authorization, database schema design, and asynchronous data handling.
 
