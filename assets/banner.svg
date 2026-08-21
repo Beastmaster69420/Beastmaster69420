@@ -207,7 +207,7 @@
           <path d="M18 3 L31 10 L31 26 L18 33 L5 26 L5 10 Z"/><path d="M18 3 L18 33"/><path d="M5 10 L31 26"/><path d="M31 10 L5 26"/>
         </g>
         <text x="965" y="178" font-weight="600">Smart Contracts</text>
-        <text x="965" y="196" font-size="12" fill="#94A3B8">Solidity &amp; Web3</text>
+        <text x="965" y="196" font-size="12" fill="#94A3B8">Solidity</text>
       </g>
 
       <!-- 3 · Systems & Robotics -->
@@ -218,7 +218,7 @@
           <line x1="2" y1="18" x2="6" y2="18"/><line x1="30" y1="18" x2="34" y2="18"/>
         </g>
         <text x="965" y="238" font-weight="600">Systems &amp; Robotics</text>
-        <text x="965" y="256" font-size="12" fill="#94A3B8">3-DoF Arm, Linux, C/C++</text>
+        <text x="965" y="256" font-size="12" fill="#94A3B8">Swarm Robotics, Linux, C/C++</text>
       </g>
 
       <!-- 4 · AI & Machine Learning -->
@@ -227,8 +227,8 @@
           <circle cx="18" cy="10" r="4"/><circle cx="8" cy="26" r="4"/><circle cx="28" cy="26" r="4"/>
           <line x1="15" y1="13" x2="10" y2="23"/><line x1="21" y1="13" x2="26" y2="23"/><line x1="12" y1="26" x2="24" y2="26"/>
         </g>
-        <text x="965" y="298" font-weight="600">AI &amp; ML Training</text>
-        <text x="965" y="316" font-size="12" fill="#94A3B8">Python &amp; React Native</text>
+        <text x="965" y="298" font-weight="600">AI &amp; ML </text>
+        <text x="965" y="316" font-size="12" fill="#94A3B8">Keras &amp; TensorFlow</text>
       </g>
 
     </g>
