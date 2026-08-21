@@ -41,7 +41,7 @@ Full-Stack Web &nbsp;·&nbsp; Smart Contracts (Solidity) &nbsp;·&nbsp; Embedded
 
 <div align="center">
 
-[![GitHub Trophies](https://trophygithubreadmelang.cybee.dpdns.org/?username=nirojmaharjan&theme=dark&title=Stars,Followers,Commits,Repositories,PullRequest,MultipleLang,Experience)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://trophygithubreadmelang.cybee.dpdns.org/?username=Beastmaster69420&theme=dark&title=Stars,Followers,Commits,Repositories,PullRequest,MultipleLang,Experience)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img width="95%" src="./assets/github-snake.svg" alt="GitHub contribution graph rendered as a snake animation" />
 
