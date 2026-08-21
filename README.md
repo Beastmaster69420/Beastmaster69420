@@ -124,16 +124,14 @@ Engineered robust backend API architecture using **Node.js, Express.js, and Mong
 
 ### 🎓 Education
 - **BE in Electronics, Communication & Information Engineering (BEI)**  
-  *Sagarmatha Engineering College, Sanepa* (Currently Enrolled — 4th Year 1st Part)
-- **Secondary Level Certificate (SLC)** — *Viswa Niketan Secondary School*
-- **Secondary Education Examination (SEE)** — *Buddha Jyoti Academy*
+
 
 ### 📜 Certifications & Specialized Coursework
-- **AI and Machine Learning Training** — Sagarmatha Engineering College
-- **React Native Mobile Development Training** — Sagarmatha Engineering College
-- **Software Engineering Fellowship** — LOCUS, Pulchowk Campus, IOE
-- **JavaScript GigaCourse** — by Maximilian Schwarzmüller (Udemy)
-- **NodeJS, Express, MongoDB Masterclass** — by Jonas Schmedtmann (Udemy)
+- **AI and Machine Learning Training** 
+- **React Native Mobile Development Training** 
+- **Software Engineering Fellowship** 
+- **JavaScript GigaCourse** 
+- **NodeJS, Express, MongoDB Masterclass** 
 
 ---
 
