@@ -152,8 +152,7 @@ Engineered robust backend API architecture using **Node.js, Express.js, and Mong
 Open to software engineering opportunities, Web3 / Smart Contract projects, full-stack development, and embedded systems collaboration.
 
 [![Email](https://img.shields.io/badge/Email-mhrznniroj0000%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:mhrznniroj0000@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Niroj_Maharjan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-nirojmaharjan-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/nirojmaharjan)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117)](https://leetcode.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Niroj_Maharjan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/niroj-maharjan-1b534227b/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117)](https://leetcode.com/u/heritagegamer/)
 
 </div>
